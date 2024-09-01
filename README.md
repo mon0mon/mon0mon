@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://scrawny-lizard-383.notion.site/c025db55ad0141e3b644b81a888ea38b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
-  <a href="https://drive.google.com/file/d/1BowhOIg64C7_JMW8Q6IrBXfTMkIRl5o0/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/PDF-ffffff?style=for-the-badge&logo=GoogleDocs&logoColor=blue"/></a>
-  <a><img src="https://img.shields.io/badge/mon0mon@naver.com-ffffff?style=flat-square&logo=Naver&logoColor=green"/></a>
+  <a href="https://scrawny-lizard-383.notion.site/38645b8ce20d437ab2fd59f2701eca08?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+  <a href="https://www.rallit.com/resumes/177900@mon0mon/%EC%9D%B4%EB%AF%BC%EA%B8%B0" target="_blank"><img src="https://img.shields.io/badge/이력서-ffffff?style=for-the-badge&logo=xdadevelopers&logoColor=000000"/></a>
 </div>
 
 ## mon0mon
