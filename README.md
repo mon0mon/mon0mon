@@ -20,6 +20,8 @@
 ![GitHub stats](profile/stats.svg)
 ![Top Langs](profile/top-langs.svg)
 
+<img src="https://raw.githubusercontent.com/mon0mon/mon0mon/output/snake.svg" alt="Snake animation" />
+
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mon0mon&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
