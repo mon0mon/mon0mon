@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ## mon0mon
 
 ### 🌐 Socials:
@@ -14,10 +16,9 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- ### 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mon0mon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=mon0mon&theme=dark&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mon0mon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+### 📊 GitHub Stats:
+![GitHub stats](profile/stats.svg)
+![Top Langs](profile/top-langs.svg)
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mon0mon&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
@@ -38,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
