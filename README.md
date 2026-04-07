@@ -1,6 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## mon0mon
+## Backend Engineer
+
+기술보다 문제에 집중하고, 늘 배우는 개발자입니다.
+
+### 🔍 Currently
+- 🔭 부하 테스트 기반 성능 병목 분석 및 개선
+- 🌱 Build Your Own X로 기술의 동작 원리 학습 중
+- 🔐 보안 위협에 대비한 안전한 인프라 환경 및 로직 구성
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minki-lee-642003285) 
